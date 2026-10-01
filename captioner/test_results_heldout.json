@@ -1,0 +1,24 @@
+{
+ "da": {
+  "wer_pct": 9.76,
+  "model": "danish-foundation-models/edda-v0.1",
+  "device": "mps",
+  "audio_sec": 484.8,
+  "seconds": 48.9,
+  "x_realtime": 9.9,
+  "segments": 41,
+  "srt_well_formed": true,
+  "srt_sample": "1\n00:00:00,360 --> 00:00:07,530\nDerudover var der mellem hvert dynasti en ustabil periode med splittede provinser\n\n2\n00:00:08,040 --> 00:00:16,440\nDen mest kendte af disse perioder var epoken med tre kongedømmer, som vejede i tres år mellem Han og Jin dynastiet."
+ },
+ "en": {
+  "wer_pct": 6.76,
+  "model": "openai/whisper-large-v3-turbo",
+  "device": "mps",
+  "audio_sec": 401.7,
+  "seconds": 41.4,
+  "x_realtime": 9.7,
+  "segments": 51,
+  "srt_well_formed": true,
+  "srt_sample": "1\n00:00:00,000 --> 00:00:05,790\nBut there are a lot of things about birds that still look like a dinosaur.\n\n2\n00:00:07,380 --> 00:00:15,540\nOliver Sacks, in his paper, The President's Speech, indicated how people who are unable to understand speech because of brain damage are nevertheless able to assess"
+ }
+}

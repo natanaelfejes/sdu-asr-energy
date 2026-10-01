@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.srt
+*.wav
+# per-utterance outputs contain licensed test-set transcripts: never commit
+run/
+valfull/
+outputs/
+power/
+*_pairs.json

@@ -1,0 +1,1 @@
+{"run": "r9_lr1e-6_conv", "lr": 1e-06, "mix": "conv", "freeze_encoder": false, "steps": 4605, "val_conv_wer": 17.44, "n": 384}

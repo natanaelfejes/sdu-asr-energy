@@ -1,0 +1,1 @@
+{"run": "r5b_lr5e-6_both", "lr": 5e-06, "mix": "both", "steps": 20329, "val_conv_wer": 19.29, "n": 384}

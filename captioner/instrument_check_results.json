@@ -1,0 +1,7 @@
+{
+ "per_clip_wer_pct": {
+  "da": 8.47,
+  "en": 6.51
+ },
+ "clips": "FLEURS test, SKIP=40, n=40"
+}

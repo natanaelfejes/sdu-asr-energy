@@ -1,0 +1,1 @@
+{"run": "r8_lr1e-5_conv_frozenc", "lr": 1e-05, "mix": "conv", "freeze_encoder": true, "steps": 4605, "val_conv_wer": 18.09, "n": 384}

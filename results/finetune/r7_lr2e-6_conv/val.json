@@ -1,0 +1,1 @@
+{"run": "r7_lr2e-6_conv", "lr": 2e-06, "mix": "conv", "steps": 4605, "val_conv_wer": 17.73, "n": 384}
